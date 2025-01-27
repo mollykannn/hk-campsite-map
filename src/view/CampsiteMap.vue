@@ -269,40 +269,19 @@ const handleSearch = () => {
   searchResults.value = campsiteData.features.filter(
     (feature) =>
       feature.properties.FACILITY_NAME_TC.toLowerCase().includes(query) ||
-      feature.properties.FACILITY_NAME_EN.toLowerCase().includes(query) ||
-      feature.properties.COUNTRY_PARK_TC.toLowerCase().includes(query) ||
-      feature.properties.COUNTRY_PARK_EN.toLowerCase().includes(query)
+      feature.properties.FACILITY_NAME_EN.toLowerCase().includes(query)
   );
 };
 
 // 處理搜尋結果點擊
 const handleResultClick = (result) => {
-  const [x, y] = result.geometry.coordinates;
-  const position = convertEPSG2326ToLatLng(x, y);
-
-  // 移動地圖到選中的營地
-  map.value.setView([position.lat, position.lng], 15);
-
-  // 找到對應的標記
-  const marker = markers.value.find(
-    (m) =>
-      m.getLatLng().lat === position.lat && m.getLatLng().lng === position.lng
-  );
-
-  if (marker) {
-    const nearestStation = findNearestWeatherStation(
-      position.lat,
-      position.lng
-    );
-    markerClickHandler(marker, result, nearestStation);
-  }
-
   // 更新 URL
   const urlId = Object.keys(reverseCampsiteUrlMap).find(
     (key) => reverseCampsiteUrlMap[key] === result.properties.FACILITY_NAME_TC
   );
   if (urlId) {
     router.push({
+      path: "/",
       query: { place: urlId },
     });
   }
@@ -331,10 +310,14 @@ const markerClickHandler = async (
   updateUrl = true
 ) => {
   if (updateUrl) {
-    const urlId = reverseCampsiteUrlMap[feature.properties.FACILITY_NAME_TC];
+    const urlId =
+      reverseCampsiteUrlMap[
+        feature.properties.FACILITY_NAME_EN.replace(/ /g, "")
+      ];
     if (urlId && route.query.place !== urlId) {
       router.push({
-        query: { place: urlId },
+        path: "/",
+        query: { place: feature.properties.FACILITY_NAME_EN.replace(/ /g, "") },
       });
     }
   }
@@ -458,7 +441,7 @@ const handleLocationUpdate = (position) => {
   }
 
   if (isTrackingLocation.value) {
-    map.value.panTo([pos.lat, pos.lng]);
+    map.value.setView([pos.lat, pos.lng], 15);
   }
 };
 
@@ -469,27 +452,11 @@ const startLocationTracking = () => {
     navigator.geolocation.getCurrentPosition(
       (position) => {
         handleLocationUpdate(position);
-        map.value.panTo([position.coords.latitude, position.coords.longitude]);
-        map.value.setZoom(15);
       },
       (error) => {
         console.error("Error getting location:", error);
         alert("無法獲取您的位置");
         isTrackingLocation.value = false;
-      }
-    );
-
-    // 持續追蹤位置
-    watchPositionId.value = navigator.geolocation.watchPosition(
-      handleLocationUpdate,
-      (error) => {
-        console.error("Error tracking location:", error);
-        isTrackingLocation.value = false;
-      },
-      {
-        enableHighAccuracy: true,
-        timeout: 5000,
-        maximumAge: 0,
       }
     );
   } else {
@@ -552,7 +519,7 @@ onMounted(async () => {
               campsite.geometry.coordinates[1]
             );
 
-            map.value.setView([position.lat, position.lng], 15);
+            map.value.setView([position.lat, position.lng], 11);
 
             const marker = markers.value.find(
               (m) =>
@@ -761,8 +728,8 @@ onBeforeUnmount(() => {
 
 .location-controls {
   position: absolute;
-  right: 10px;
-  bottom: 10px;
+  right: 20px;
+  bottom: 20px;
   z-index: 1000;
 }
 
@@ -800,22 +767,5 @@ onBeforeUnmount(() => {
 
 .location-button.active .location-icon {
   color: white;
-}
-
-@media (max-width: 480px) {
-  .location-controls {
-    bottom: 80px;
-    right: 8px;
-  }
-
-  .location-button {
-    width: 36px;
-    height: 36px;
-  }
-
-  .location-icon {
-    width: 16px;
-    height: 16px;
-  }
 }
 </style>
