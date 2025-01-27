@@ -25,7 +25,7 @@
 1. 克隆專案
 
 ```bash
-git clone https://github.com/your-username/hk-campsite-map.git
+git clone https://github.com/mollykannn/hk-campsite-map.git
 cd hk-campsite-map
 ```
 
