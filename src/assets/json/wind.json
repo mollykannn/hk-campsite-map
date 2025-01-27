@@ -1,0 +1,368 @@
+{
+  "timeStamp": "2025-01-25T14:39:39Z",
+  "features": [
+    {
+      "geometry": { "coordinates": [114.1558333, 22.2888889], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "中环码头",
+        "OBJECTID": 1,
+        "gml_id": "latest_10min_wind.0",
+        "AutomaticWeatherStation_uc": "中環碼頭",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_0.csv",
+        "AutomaticWeatherStation_en": "Central Pier"
+      }
+    },
+    {
+      "geometry": { "coordinates": [113.9219444, 22.3094444], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "赤鱲角",
+        "OBJECTID": 2,
+        "gml_id": "latest_10min_wind.1",
+        "AutomaticWeatherStation_uc": "赤鱲角",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_1.csv",
+        "AutomaticWeatherStation_en": "Chek Lap Kok"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.0266667, 22.2011111], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "长 洲",
+        "OBJECTID": 3,
+        "gml_id": "latest_10min_wind.2",
+        "AutomaticWeatherStation_uc": "長 洲",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_2.csv",
+        "AutomaticWeatherStation_en": "Cheung Chau"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.0291667, 22.2108333], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "长洲泳滩",
+        "OBJECTID": 4,
+        "gml_id": "latest_10min_wind.3",
+        "AutomaticWeatherStation_uc": "長洲泳灘",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_3.csv",
+        "AutomaticWeatherStation_en": "Cheung Chau Beach"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.1127778, 22.285], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "青 洲",
+        "OBJECTID": 5,
+        "gml_id": "latest_10min_wind.4",
+        "AutomaticWeatherStation_uc": "青 洲",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_4.csv",
+        "AutomaticWeatherStation_en": "Green Island"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.21429, 22.2183], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "香港航海學校",
+        "OBJECTID": 6,
+        "gml_id": "latest_10min_wind.5",
+        "AutomaticWeatherStation_uc": "香港航海學校",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_5.csv",
+        "AutomaticWeatherStation_en": "Hong Kong Sea School"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.2133333, 22.3097222], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "启 德",
+        "OBJECTID": 7,
+        "gml_id": "latest_10min_wind.6",
+        "AutomaticWeatherStation_uc": "啟 德",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_6.csv",
+        "AutomaticWeatherStation_en": "Kai Tak"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.1727778, 22.3119444], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "京士柏",
+        "OBJECTID": 8,
+        "gml_id": "latest_10min_wind.7",
+        "AutomaticWeatherStation_uc": "京士柏",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_7.csv",
+        "AutomaticWeatherStation_en": "King's Park"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.1086111, 22.2261111], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "南丫岛",
+        "OBJECTID": 9,
+        "gml_id": "latest_10min_wind.8",
+        "AutomaticWeatherStation_uc": "南丫島",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_8.csv",
+        "AutomaticWeatherStation_en": "Lamma Island"
+      }
+    },
+    {
+      "geometry": { "coordinates": [113.9836111, 22.4688889], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "流浮山",
+        "OBJECTID": 10,
+        "gml_id": "latest_10min_wind.9",
+        "AutomaticWeatherStation_uc": "流浮山",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_9.csv",
+        "AutomaticWeatherStation_en": "Lau Fau Shan"
+      }
+    },
+    {
+      "geometry": { "coordinates": [113.9127778, 22.2586111], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "昂 坪",
+        "OBJECTID": 11,
+        "gml_id": "latest_10min_wind.10",
+        "AutomaticWeatherStation_uc": "昂 坪",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_10.csv",
+        "AutomaticWeatherStation_en": "Ngong Ping"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.199722, 22.294444], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "北 角",
+        "OBJECTID": 12,
+        "gml_id": "latest_10min_wind.11",
+        "AutomaticWeatherStation_uc": "北 角",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_11.csv",
+        "AutomaticWeatherStation_en": "North Point"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.0433333, 22.2911111], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "坪 洲",
+        "OBJECTID": 13,
+        "gml_id": "latest_10min_wind.12",
+        "AutomaticWeatherStation_uc": "坪 洲",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_12.csv",
+        "AutomaticWeatherStation_en": "Peng Chau"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.2744444, 22.3755556], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "西 贡",
+        "OBJECTID": 14,
+        "gml_id": "latest_10min_wind.13",
+        "AutomaticWeatherStation_uc": "西 貢",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_13.csv",
+        "AutomaticWeatherStation_en": "Sai Kung"
+      }
+    },
+    {
+      "geometry": { "coordinates": [113.8911111, 22.3458333], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "沙 洲",
+        "OBJECTID": 15,
+        "gml_id": "latest_10min_wind.14",
+        "AutomaticWeatherStation_uc": "沙 洲",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_14.csv",
+        "AutomaticWeatherStation_en": "Sha Chau"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.21, 22.4025], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "沙 田",
+        "OBJECTID": 16,
+        "gml_id": "latest_10min_wind.15",
+        "AutomaticWeatherStation_uc": "沙 田",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_15.csv",
+        "AutomaticWeatherStation_en": "Sha Tin"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.0847222, 22.4361111], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "石 岗",
+        "OBJECTID": 17,
+        "gml_id": "latest_10min_wind.16",
+        "AutomaticWeatherStation_uc": "石 崗",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_16.csv",
+        "AutomaticWeatherStation_en": "Shek Kong"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.2186111, 22.2141667], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "赤 柱",
+        "OBJECTID": 18,
+        "gml_id": "latest_10min_wind.17",
+        "AutomaticWeatherStation_uc": "赤 柱",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_17.csv",
+        "AutomaticWeatherStation_en": "Stanley"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.16842, 22.293008], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "天星码头",
+        "OBJECTID": 19,
+        "gml_id": "latest_10min_wind.18",
+        "AutomaticWeatherStation_uc": "天星碼頭",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_18.csv",
+        "AutomaticWeatherStation_en": "Star Ferry"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.1566667, 22.5286111], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "打鼓岭",
+        "OBJECTID": 20,
+        "gml_id": "latest_10min_wind.19",
+        "AutomaticWeatherStation_uc": "打鼓嶺",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_19.csv",
+        "AutomaticWeatherStation_en": "Ta Kwu Ling"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.2375, 22.4752778], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "大美督",
+        "OBJECTID": 21,
+        "gml_id": "latest_10min_wind.20",
+        "AutomaticWeatherStation_uc": "大美督",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_20.csv",
+        "AutomaticWeatherStation_en": "Tai Mei Tuk"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.1841667, 22.4425], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "大埔滘",
+        "OBJECTID": 22,
+        "gml_id": "latest_10min_wind.21",
+        "AutomaticWeatherStation_uc": "大埔滘",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_21.csv",
+        "AutomaticWeatherStation_en": "Tai Po Kau"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.3605556, 22.4713889], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "塔 门",
+        "OBJECTID": 23,
+        "gml_id": "latest_10min_wind.22",
+        "AutomaticWeatherStation_uc": "塔 門",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_22.csv",
+        "AutomaticWeatherStation_en": "Tap Mun"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.2177778, 22.3577778], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "大老山",
+        "OBJECTID": 24,
+        "gml_id": "latest_10min_wind.23",
+        "AutomaticWeatherStation_uc": "大老山",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_23.csv",
+        "AutomaticWeatherStation_en": "Tate's Cairn"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.2555556, 22.3158333], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "将军澳",
+        "OBJECTID": 25,
+        "gml_id": "latest_10min_wind.24",
+        "AutomaticWeatherStation_uc": "將軍澳",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_24.csv",
+        "AutomaticWeatherStation_en": "Tseung Kwan O"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.11, 22.3441667], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "青 衣",
+        "OBJECTID": 26,
+        "gml_id": "latest_10min_wind.25",
+        "AutomaticWeatherStation_uc": "青 衣",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_25.csv",
+        "AutomaticWeatherStation_en": "Tsing Yi"
+      }
+    },
+    {
+      "geometry": { "coordinates": [113.9641667, 22.3858333], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "屯 门",
+        "OBJECTID": 27,
+        "gml_id": "latest_10min_wind.26",
+        "AutomaticWeatherStation_uc": "屯 門",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_26.csv",
+        "AutomaticWeatherStation_en": "Tuen Mun"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.3033333, 22.1822222], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "横澜岛",
+        "OBJECTID": 28,
+        "gml_id": "latest_10min_wind.27",
+        "AutomaticWeatherStation_uc": "橫瀾島",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_27.csv",
+        "AutomaticWeatherStation_en": "Waglan Island"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.0088889, 22.4666667], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "湿地公园",
+        "OBJECTID": 29,
+        "gml_id": "latest_10min_wind.28",
+        "AutomaticWeatherStation_uc": "濕地公園",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_28.csv",
+        "AutomaticWeatherStation_en": "Wetland Park"
+      }
+    },
+    {
+      "geometry": { "coordinates": [114.1736111, 22.2477778], "type": "Point" },
+      "type": "Feature",
+      "properties": {
+        "AutomaticWeatherStation_sc": "黄竹坑",
+        "OBJECTID": 30,
+        "gml_id": "latest_10min_wind.29",
+        "AutomaticWeatherStation_uc": "黃竹坑",
+        "Data_url": "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/latest_10min_wind_csdi_29.csv",
+        "AutomaticWeatherStation_en": "Wong Chuk Hang"
+      }
+    }
+  ],
+  "numberReturned": 30,
+  "type": "FeatureCollection",
+  "numberMatched": 30
+}

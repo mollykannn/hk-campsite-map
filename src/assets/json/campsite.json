@@ -1,0 +1,750 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "campsite",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:2326"
+		}
+	},
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828877, 829533 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1,
+				"FACILITY_NAME_EN" : "Rotary Park Campsite",
+				"FACILITY_NAME_TC" : "扶輪公園營地",
+				"COUNTRY_PARK_EN" : "TAI MO SHAN COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "大帽山郊野公園",
+				"SOURCE_OF_WATER_EN" : "TAP",
+				"SOURCE_OF_WATER_TC" : "水喉",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843899.0350999832, 828123.1971001625 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2,
+				"FACILITY_NAME_EN" : "Ngong Ping Campsite",
+				"FACILITY_NAME_TC" : "昂平營地",
+				"COUNTRY_PARK_EN" : "MA ON SHAN COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "馬鞍山郊野公園",
+				"SOURCE_OF_WATER_EN" : "FLUSHING TOILET",
+				"SOURCE_OF_WATER_TC" : "洗手間",
+				"TENT_SPACE_EN" : "20-50",
+				"TENT_SPACE_TC" : "20-50"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 806683.0999999046, 810047.1999998093 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3,
+				"FACILITY_NAME_EN" : "Shek Pik Campsite",
+				"FACILITY_NAME_TC" : "石壁營地",
+				"COUNTRY_PARK_EN" : "LANTAU SOUTH COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "南大嶼郊野公園",
+				"SOURCE_OF_WATER_EN" : "FLUSHING TOILET",
+				"SOURCE_OF_WATER_TC" : "洗手間",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 856682.909599781, 830015.6561999321 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4,
+				"FACILITY_NAME_EN" : "Ham Tin Wan Campsite",
+				"FACILITY_NAME_TC" : "鹹田灣營地",
+				"COUNTRY_PARK_EN" : "SAI KUNG EAST COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "西貢東郊野公園",
+				"SOURCE_OF_WATER_EN" : "TAP",
+				"SOURCE_OF_WATER_TC" : "水喉",
+				"TENT_SPACE_EN" : "More than 50",
+				"TENT_SPACE_TC" : "多於 50"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 849952.5662999153, 832132.4212999344 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5,
+				"FACILITY_NAME_EN" : "Cheung Sheung Campsite",
+				"FACILITY_NAME_TC" : "嶂上營地",
+				"COUNTRY_PARK_EN" : "SAI KUNG WEST COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "西貢西郊野公園",
+				"SOURCE_OF_WATER_EN" : "STREAM WATER (SEASONAL SUPPLY)",
+				"SOURCE_OF_WATER_TC" : "溪澗(季節性水源)",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 802863, 811159 ]
+			},
+			"properties" : {
+				"OBJECTID" : 6,
+				"FACILITY_NAME_EN" : "Nga Ying Kok Campsite",
+				"FACILITY_NAME_TC" : "牙鷹角營地",
+				"COUNTRY_PARK_EN" : "LANTAU NORTH COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "北大嶼郊野公園",
+				"SOURCE_OF_WATER_EN" : "STREAM WATER (SEASONAL SUPPLY)",
+				"SOURCE_OF_WATER_TC" : "溪澗(季節性水源)",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 809194.1999998093, 812925.5999999046 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7,
+				"FACILITY_NAME_EN" : "Ngong Ping Campsite",
+				"FACILITY_NAME_TC" : "昂坪營地",
+				"COUNTRY_PARK_EN" : "LANTAU SOUTH COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "南大嶼郊野公園",
+				"SOURCE_OF_WATER_EN" : "STREAM WATER (SEASONAL SUPPLY)",
+				"SOURCE_OF_WATER_TC" : "溪澗(季節性水源)",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 801912, 807819 ]
+			},
+			"properties" : {
+				"OBJECTID" : 8,
+				"FACILITY_NAME_EN" : "Tsin Yue Wan Campsite",
+				"FACILITY_NAME_TC" : "煎魚灣營地",
+				"COUNTRY_PARK_EN" : "LANTAU SOUTH COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "南大嶼郊野公園",
+				"SOURCE_OF_WATER_EN" : "STREAM WATER (SEASONAL SUPPLY)",
+				"SOURCE_OF_WATER_TC" : "溪澗(季節性水源)",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 804271, 810249 ]
+			},
+			"properties" : {
+				"OBJECTID" : 9,
+				"FACILITY_NAME_EN" : "Man Cheung Po Campsite",
+				"FACILITY_NAME_TC" : "萬丈布營地",
+				"COUNTRY_PARK_EN" : "LANTAU SOUTH COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "南大嶼郊野公園",
+				"SOURCE_OF_WATER_EN" : "STREAM WATER (SEASONAL SUPPLY)",
+				"SOURCE_OF_WATER_TC" : "溪澗(季節性水源)",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 803978, 807353 ]
+			},
+			"properties" : {
+				"OBJECTID" : 10,
+				"FACILITY_NAME_EN" : "Kau Ling Chung Campsite",
+				"FACILITY_NAME_TC" : "狗嶺涌營地",
+				"COUNTRY_PARK_EN" : "LANTAU SOUTH COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "南大嶼郊野公園",
+				"SOURCE_OF_WATER_EN" : "STREAM WATER (SEASONAL SUPPLY)",
+				"SOURCE_OF_WATER_TC" : "溪澗(季節性水源)",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 805454, 808322 ]
+			},
+			"properties" : {
+				"OBJECTID" : 11,
+				"FACILITY_NAME_EN" : "Tai Long Wan Campsite",
+				"FACILITY_NAME_TC" : "大浪灣營地",
+				"COUNTRY_PARK_EN" : "LANTAU SOUTH COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "南大嶼郊野公園",
+				"SOURCE_OF_WATER_EN" : "STREAM WATER (SEASONAL SUPPLY)",
+				"SOURCE_OF_WATER_TC" : "溪澗(季節性水源)",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 808061, 808302 ]
+			},
+			"properties" : {
+				"OBJECTID" : 12,
+				"FACILITY_NAME_EN" : "Shek Lam Chau Campsite",
+				"FACILITY_NAME_TC" : "石欖洲營地",
+				"COUNTRY_PARK_EN" : "LANTAU SOUTH COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "南大嶼郊野公園",
+				"SOURCE_OF_WATER_EN" : "STREAM WATER (SEASONAL SUPPLY)",
+				"SOURCE_OF_WATER_TC" : "溪澗(季節性水源)",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 809285, 808181 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13,
+				"FACILITY_NAME_EN" : "Lo Kei Wan Campsite",
+				"FACILITY_NAME_TC" : "籮箕灣營地",
+				"COUNTRY_PARK_EN" : "LANTAU SOUTH COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "南大嶼郊野公園",
+				"SOURCE_OF_WATER_EN" : "STREAM WATER (SEASONAL SUPPLY)",
+				"SOURCE_OF_WATER_TC" : "溪澗(季節性水源)",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817426, 812573 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14,
+				"FACILITY_NAME_EN" : "Pak Fu Tin Campsite",
+				"FACILITY_NAME_TC" : "白富田營地",
+				"COUNTRY_PARK_EN" : "LANTAU SOUTH COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "南大嶼郊野公園",
+				"SOURCE_OF_WATER_EN" : "STREAM WATER (SEASONAL SUPPLY)",
+				"SOURCE_OF_WATER_TC" : "溪澗(季節性水源)",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816614, 812735 ]
+			},
+			"properties" : {
+				"OBJECTID" : 15,
+				"FACILITY_NAME_EN" : "Nam Shan Campsite",
+				"FACILITY_NAME_TC" : "南山營地",
+				"COUNTRY_PARK_EN" : "LANTAU SOUTH COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "南大嶼郊野公園",
+				"SOURCE_OF_WATER_EN" : "TAP",
+				"SOURCE_OF_WATER_TC" : "水喉",
+				"TENT_SPACE_EN" : "More than 50",
+				"TENT_SPACE_TC" : "多於 50"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 824855, 827876 ]
+			},
+			"properties" : {
+				"OBJECTID" : 16,
+				"FACILITY_NAME_EN" : "Tin Fu Tsai Campsite",
+				"FACILITY_NAME_TC" : "田夫仔營地",
+				"COUNTRY_PARK_EN" : "TAI LAM COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "大欖郊野公園",
+				"SOURCE_OF_WATER_EN" : "STREAM WATER (SEASONAL SUPPLY)",
+				"SOURCE_OF_WATER_TC" : "溪澗(季節性水源)",
+				"TENT_SPACE_EN" : "20-50",
+				"TENT_SPACE_TC" : "20-50"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 825439, 830076 ]
+			},
+			"properties" : {
+				"OBJECTID" : 17,
+				"FACILITY_NAME_EN" : "Ho Pui Campsite",
+				"FACILITY_NAME_TC" : "河背營地",
+				"COUNTRY_PARK_EN" : "TAI LAM COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "大欖郊野公園",
+				"SOURCE_OF_WATER_EN" : "STREAM WATER (SEASONAL SUPPLY)",
+				"SOURCE_OF_WATER_TC" : "溪澗(季節性水源)",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828685, 829725 ]
+			},
+			"properties" : {
+				"OBJECTID" : 18,
+				"FACILITY_NAME_EN" : "Twisk Campsite",
+				"FACILITY_NAME_TC" : "荃錦營地",
+				"COUNTRY_PARK_EN" : "TAI LAM COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "大欖郊野公園",
+				"SOURCE_OF_WATER_EN" : "TAP",
+				"SOURCE_OF_WATER_TC" : "水喉",
+				"TENT_SPACE_EN" : "20-50",
+				"TENT_SPACE_TC" : "20-50"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834303, 830223 ]
+			},
+			"properties" : {
+				"OBJECTID" : 19,
+				"FACILITY_NAME_EN" : "Lead Mine Pass Campsite",
+				"FACILITY_NAME_TC" : "鉛礦坳營地",
+				"COUNTRY_PARK_EN" : "SHING MUN COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "城門郊野公園",
+				"SOURCE_OF_WATER_EN" : "TAP",
+				"SOURCE_OF_WATER_TC" : "水喉",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 863440.6500000954, 844612.6876001358 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20,
+				"FACILITY_NAME_EN" : "Tung Ping Chau Campsite",
+				"FACILITY_NAME_TC" : "東平洲營地",
+				"COUNTRY_PARK_EN" : "PLOVER COVE (EXTENSION) COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "船灣(擴建部分)郊野公園",
+				"SOURCE_OF_WATER_EN" : "STREAM WATER (SEASONAL SUPPLY)",
+				"SOURCE_OF_WATER_TC" : "溪澗(季節性水源)",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 846391, 829276 ]
+			},
+			"properties" : {
+				"OBJECTID" : 21,
+				"FACILITY_NAME_EN" : "Shui Long Wo Campsite",
+				"FACILITY_NAME_TC" : "水浪窩營地",
+				"COUNTRY_PARK_EN" : "MA ON SHAN COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "馬鞍山郊野公園",
+				"SOURCE_OF_WATER_EN" : "STREAM WATER (SEASONAL SUPPLY)",
+				"SOURCE_OF_WATER_TC" : "溪澗(季節性水源)",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 851543, 829670 ]
+			},
+			"properties" : {
+				"OBJECTID" : 22,
+				"FACILITY_NAME_EN" : "Yee Ting Campsite",
+				"FACILITY_NAME_TC" : "怡庭營地",
+				"COUNTRY_PARK_EN" : "SAI KUNG WEST COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "西貢西郊野公園",
+				"SOURCE_OF_WATER_EN" : "STREAM WATER (SEASONAL SUPPLY)",
+				"SOURCE_OF_WATER_TC" : "溪澗(季節性水源)",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 852382.1915998459, 833132.2814002037 ]
+			},
+			"properties" : {
+				"OBJECTID" : 23,
+				"FACILITY_NAME_EN" : "Tai Tan Campsite",
+				"FACILITY_NAME_TC" : "大灘營地",
+				"COUNTRY_PARK_EN" : "SAI KUNG WEST COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "西貢西郊野公園",
+				"SOURCE_OF_WATER_EN" : "TAP",
+				"SOURCE_OF_WATER_TC" : "水喉",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 852862, 836185 ]
+			},
+			"properties" : {
+				"OBJECTID" : 24,
+				"FACILITY_NAME_EN" : "Wan Tsai West Campsite",
+				"FACILITY_NAME_TC" : "灣仔西營地",
+				"COUNTRY_PARK_EN" : "SAI KUNG WEST COUNTRY PARK (WAN TSAI EXTENSION)",
+				"COUNTRY_PARK_TC" : "西貢西郊野公園(灣仔擴建部分)",
+				"SOURCE_OF_WATER_EN" : "TAP",
+				"SOURCE_OF_WATER_TC" : "水喉",
+				"TENT_SPACE_EN" : "More than 50",
+				"TENT_SPACE_TC" : "多於 50"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 851720, 827006 ]
+			},
+			"properties" : {
+				"OBJECTID" : 25,
+				"FACILITY_NAME_EN" : "Po Kwu Wan Campsite",
+				"FACILITY_NAME_TC" : "曝罟灣營地",
+				"COUNTRY_PARK_EN" : "SAI KUNG EAST COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "西貢東郊野公園",
+				"SOURCE_OF_WATER_EN" : "STREAM WATER (SEASONAL SUPPLY)",
+				"SOURCE_OF_WATER_TC" : "溪澗(季節性水源)",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 852299.6479997635, 826436.847700119 ]
+			},
+			"properties" : {
+				"OBJECTID" : 26,
+				"FACILITY_NAME_EN" : "Yuen Ng Fan Campsite",
+				"FACILITY_NAME_TC" : "元五墳營地",
+				"COUNTRY_PARK_EN" : "SAI KUNG EAST COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "西貢東郊野公園",
+				"SOURCE_OF_WATER_EN" : "STREAM WATER (SEASONAL SUPPLY)",
+				"SOURCE_OF_WATER_TC" : "溪澗(季節性水源)",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 851747.0490999222, 833578.3407001495 ]
+			},
+			"properties" : {
+				"OBJECTID" : 27,
+				"FACILITY_NAME_EN" : "Hau Tong Kai Campsite",
+				"FACILITY_NAME_TC" : "猴塘溪營地",
+				"COUNTRY_PARK_EN" : "SAI KUNG WEST COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "西貢西郊野公園",
+				"SOURCE_OF_WATER_EN" : "TAP",
+				"SOURCE_OF_WATER_TC" : "水喉",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 856664.3666000366, 826061.983399868 ]
+			},
+			"properties" : {
+				"OBJECTID" : 28,
+				"FACILITY_NAME_EN" : "Long Ke Wan Campsite",
+				"FACILITY_NAME_TC" : "浪茄灣營地",
+				"COUNTRY_PARK_EN" : "SAI KUNG EAST COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "西貢東郊野公園",
+				"SOURCE_OF_WATER_EN" : "STREAM WATER (SEASONAL SUPPLY)",
+				"SOURCE_OF_WATER_TC" : "溪澗(季節性水源)",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 856133.5886998177, 828913.0900998116 ]
+			},
+			"properties" : {
+				"OBJECTID" : 29,
+				"FACILITY_NAME_EN" : "Sai Wan Campsite",
+				"FACILITY_NAME_TC" : "西灣營地",
+				"COUNTRY_PARK_EN" : "SAI KUNG EAST COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "西貢東郊野公園",
+				"SOURCE_OF_WATER_EN" : "TAP",
+				"SOURCE_OF_WATER_TC" : "水喉",
+				"TENT_SPACE_EN" : "More than 50",
+				"TENT_SPACE_TC" : "多於  50"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 852648.8166999817, 831535.7855000496 ]
+			},
+			"properties" : {
+				"OBJECTID" : 30,
+				"FACILITY_NAME_EN" : "Pak Tam Au Campsite",
+				"FACILITY_NAME_TC" : "北潭凹營地",
+				"COUNTRY_PARK_EN" : "SAI KUNG EAST COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "西貢東郊野公園",
+				"SOURCE_OF_WATER_EN" : "STREAM WATER (SEASONAL SUPPLY)",
+				"SOURCE_OF_WATER_TC" : "溪澗(季節性水源)",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 852692.473400116, 832849.456799984 ]
+			},
+			"properties" : {
+				"OBJECTID" : 31,
+				"FACILITY_NAME_EN" : "Wong Shek Campsite",
+				"FACILITY_NAME_TC" : "黃石營地",
+				"COUNTRY_PARK_EN" : "SAI KUNG EAST COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "西貢東郊野公園",
+				"SOURCE_OF_WATER_EN" : "TAP",
+				"SOURCE_OF_WATER_TC" : "水喉",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 853277, 835802 ]
+			},
+			"properties" : {
+				"OBJECTID" : 32,
+				"FACILITY_NAME_EN" : "Wan Tsai South Campsite",
+				"FACILITY_NAME_TC" : "灣仔南營地",
+				"COUNTRY_PARK_EN" : "SAI KUNG WEST COUNTRY PARK (WAN TSAI EXTENSION)",
+				"COUNTRY_PARK_TC" : "西貢西郊野公園(灣仔擴建部分)",
+				"SOURCE_OF_WATER_EN" : "TAP",
+				"SOURCE_OF_WATER_TC" : "水喉",
+				"TENT_SPACE_EN" : "More than 50",
+				"TENT_SPACE_TC" : "多於  50"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 846016.8439998627, 840978.7764000893 ]
+			},
+			"properties" : {
+				"OBJECTID" : 33,
+				"FACILITY_NAME_EN" : "Sam A Chung Campsite",
+				"FACILITY_NAME_TC" : "三椏涌營地",
+				"COUNTRY_PARK_EN" : "PLOVER COVE COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "船灣郊野公園",
+				"SOURCE_OF_WATER_EN" : "STREAM WATER (SEASONAL SUPPLY)",
+				"SOURCE_OF_WATER_TC" : "溪澗(季節性水源)",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836361, 839867 ]
+			},
+			"properties" : {
+				"OBJECTID" : 34,
+				"FACILITY_NAME_EN" : "Hok Tau Campsite",
+				"FACILITY_NAME_TC" : "鶴藪營地",
+				"COUNTRY_PARK_EN" : "PAT SIN LENG COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "八仙嶺郊野公園",
+				"SOURCE_OF_WATER_EN" : "TAP",
+				"SOURCE_OF_WATER_TC" : "水喉",
+				"TENT_SPACE_EN" : "20-50",
+				"TENT_SPACE_TC" : "20-50"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843065, 838658 ]
+			},
+			"properties" : {
+				"OBJECTID" : 35,
+				"FACILITY_NAME_EN" : "Chung Pui Campsite",
+				"FACILITY_NAME_TC" : "涌背營地",
+				"COUNTRY_PARK_EN" : "PAT SIN LENG COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "八仙嶺郊野公園",
+				"SOURCE_OF_WATER_EN" : "TAP",
+				"SOURCE_OF_WATER_TC" : "水喉",
+				"TENT_SPACE_EN" : "20-50",
+				"TENT_SPACE_TC" : "20-50"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 848540, 812971 ]
+			},
+			"properties" : {
+				"OBJECTID" : 36,
+				"FACILITY_NAME_EN" : "Tung Lung Chau Campsite",
+				"FACILITY_NAME_TC" : "東龍洲營地",
+				"COUNTRY_PARK_EN" : "TUNG LUNG FORT SPECIAL AREA",
+				"COUNTRY_PARK_TC" : "東龍洲特別地區",
+				"SOURCE_OF_WATER_EN" : "TAP",
+				"SOURCE_OF_WATER_TC" : "水喉",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835260, 839090 ]
+			},
+			"properties" : {
+				"OBJECTID" : 37,
+				"FACILITY_NAME_EN" : "Lau Shui Heung Campsite",
+				"FACILITY_NAME_TC" : "流水響營地",
+				"COUNTRY_PARK_EN" : "PAT SIN LENG COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "八仙嶺郊野公園",
+				"SOURCE_OF_WATER_EN" : "STREAM WATER (SEASONAL SUPPLY)",
+				"SOURCE_OF_WATER_TC" : "溪澗(季節性水源)",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 855620.557199955, 824411.7758998871 ]
+			},
+			"properties" : {
+				"OBJECTID" : 38,
+				"FACILITY_NAME_EN" : "Pak Lap Campsite",
+				"FACILITY_NAME_TC" : "白腊營地",
+				"COUNTRY_PARK_EN" : "SAI KUNG EAST COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "西貢東郊野公園",
+				"SOURCE_OF_WATER_EN" : "STREAM WATER (SEASONAL SUPPLY)",
+				"SOURCE_OF_WATER_TC" : "溪澗(季節性水源)",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816826.8847999573, 810941.0605998039 ]
+			},
+			"properties" : {
+				"OBJECTID" : 39,
+				"FACILITY_NAME_EN" : "Shap Long Campsite",
+				"FACILITY_NAME_TC" : "十塱營地",
+				"COUNTRY_PARK_EN" : "LANTAU SOUTH COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "南大嶼郊野公園",
+				"SOURCE_OF_WATER_EN" : "STREAM WATER (SEASONAL SUPPLY)",
+				"SOURCE_OF_WATER_TC" : "溪澗(季節性水源)",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 849781.3187999725, 827381.0374999046 ]
+			},
+			"properties" : {
+				"OBJECTID" : 40,
+				"FACILITY_NAME_EN" : "Tai Mong Tsai Campsite",
+				"FACILITY_NAME_TC" : "大網仔營地",
+				"COUNTRY_PARK_EN" : "SAI KUNG EAST COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "西貢東郊野公園",
+				"SOURCE_OF_WATER_EN" : "TAP",
+				"SOURCE_OF_WATER_TC" : "水喉",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841924.3000001907, 841659.8000001907 ]
+			},
+			"properties" : {
+				"OBJECTID" : 41,
+				"FACILITY_NAME_EN" : "Kong Ha Au Campsite",
+				"FACILITY_NAME_TC" : "降下坳營地",
+				"COUNTRY_PARK_EN" : "PAT SIN LENG COUNTRY PARK",
+				"COUNTRY_PARK_TC" : "八仙嶺郊野公園",
+				"SOURCE_OF_WATER_EN" : "FLUSHING TOILET",
+				"SOURCE_OF_WATER_TC" : "洗手間",
+				"TENT_SPACE_EN" : "Less than 20",
+				"TENT_SPACE_TC" : "少於 20"
+			}
+		}
+	]
+}
