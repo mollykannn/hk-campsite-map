@@ -28,8 +28,8 @@ importers:
         version: 4.5.0(vue@3.5.13)
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^5.2.1
-        version: 5.2.1(vite@6.0.11)(vue@3.5.13)
+        specifier: ^5.2.3
+        version: 5.2.3(vite@6.0.11)(vue@3.5.13)
       vite:
         specifier: ^6.0.5
         version: 6.0.11
@@ -310,8 +310,8 @@ packages:
   '@types/google.maps@3.58.1':
     resolution: {integrity: sha512-X9QTSvGJ0nCfMzYOnaVs/k6/4L+7F5uCS+4iUmkLEls6J9S/Phv+m/i3mDeyc49ZBgwab3EFO1HEoBY7k98EGQ==}
 
-  '@vitejs/plugin-vue@5.2.1':
-    resolution: {integrity: sha512-cxh314tzaWwOLqVes2gnnCtvBDcM1UMdn+iFR+UjAn411dPT3tOmqrJjbMd7koZpMAmBM/GqeV4n9ge7JSiJJQ==}
+  '@vitejs/plugin-vue@5.2.3':
+    resolution: {integrity: sha512-IYSLEQj4LgZZuoVpdSUCw3dIynTWQgPlaRP6iAvMle4My0HdYwr5g5wQAfwOeHQBmYwEkqF70nRpSilr6PoUDg==}
     engines: {node: ^18.0.0 || >=20.0.0}
     peerDependencies:
       vite: ^5.0.0 || ^6.0.0
@@ -613,7 +613,7 @@ snapshots:
 
   '@types/google.maps@3.58.1': {}
 
-  '@vitejs/plugin-vue@5.2.1(vite@6.0.11)(vue@3.5.13)':
+  '@vitejs/plugin-vue@5.2.3(vite@6.0.11)(vue@3.5.13)':
     dependencies:
       vite: 6.0.11
       vue: 3.5.13
