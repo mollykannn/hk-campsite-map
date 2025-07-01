@@ -18,8 +18,8 @@ importers:
         specifier: ^1.9.4
         version: 1.9.4
       proj4:
-        specifier: ^2.15.0
-        version: 2.15.0
+        specifier: ^2.19.5
+        version: 2.19.5
       vue:
         specifier: ^3.5.13
         version: 3.5.13
@@ -390,8 +390,8 @@ packages:
     resolution: {integrity: sha512-6oz2beyjc5VMn/KV1pPw8fliQkhBXrVn1Z3TVyqZxU8kZpzEKhBdmCFqI6ZbmGtamQvQGuU1sgPTk8ZrXDD7jQ==}
     engines: {node: ^10 || ^12 || >=14}
 
-  proj4@2.15.0:
-    resolution: {integrity: sha512-LqCNEcPdI03BrCHxPLj29vsd5afsm+0sV1H/O3nTDKrv8/LA01ea1z4QADDMjUqxSXWnrmmQDjqFm1J/uZ5RLw==}
+  proj4@2.19.5:
+    resolution: {integrity: sha512-hFn7GJwUZ1YiAAfSfur7VRgiH0swIZFxJb7UZ7C4E9tbqyozSn+SI9ZxFgFKmUldtY3tVTBvylJhwfD+O3pHQw==}
 
   rollup@4.32.0:
     resolution: {integrity: sha512-JmrhfQR31Q4AuNBjjAX4s+a/Pu/Q8Q9iwjWBsjRH1q52SPFE2NqRMK6fUZKKnvKO6id+h7JIRf0oYsph53eATg==}
@@ -455,8 +455,8 @@ packages:
       typescript:
         optional: true
 
-  wkt-parser@1.4.0:
-    resolution: {integrity: sha512-qpwO7Ihds/YYDTi1aADFTI1Sm9YC/tTe3SHD24EeIlZxy7Ik6a1b4HOz7jAi0xdUAw487duqpo8OGu+Tf4nwlQ==}
+  wkt-parser@1.5.2:
+    resolution: {integrity: sha512-1ZUiV1FTwSiSrgWzV9KXJuOF2BVW91KY/mau04BhnmgOdroRQea7Q0s5TVqwGLm0D2tZwObd/tBYXW49sSxp3Q==}
 
 snapshots:
 
@@ -729,10 +729,10 @@ snapshots:
       picocolors: 1.1.1
       source-map-js: 1.2.1
 
-  proj4@2.15.0:
+  proj4@2.19.5:
     dependencies:
       mgrs: 1.0.0
-      wkt-parser: 1.4.0
+      wkt-parser: 1.5.2
 
   rollup@4.32.0:
     dependencies:
@@ -782,4 +782,4 @@ snapshots:
       '@vue/server-renderer': 3.5.13(vue@3.5.13)
       '@vue/shared': 3.5.13
 
-  wkt-parser@1.4.0: {}
+  wkt-parser@1.5.2: {}
